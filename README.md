@@ -1,6 +1,6 @@
 # Natours
 A tour booking site.
-![image](https://imgur.com/yxICFxW)
+![image](https://github.com/Yung-Che/Natours/blob/main/public/img/homepage.jpg)
 
 ## Live Demo
 https://natours-plains.herokuapp.com/
